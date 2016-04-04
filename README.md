@@ -35,7 +35,7 @@ Prior to Makers Academy I worked for six years as an interface designer in the e
 |---|---|---|
 |[Roadtripper](https://github.com/frazerWatson/road_tripper)|A place to tell the stories of your road trips, a place for others to plan their road trips based upon the experiences of others. My Makers Academy final project, built by a group of three developers.|Ruby on Rails, JavaScript, jQuery, Bootstrap, Amazon Web Services, PostgreSQL, Heroku, Protractor, Karma, Jasmine, Rspec.|
 |[Chitter] (https://github.com/barrygrubb/chitter-challenge)|An MVP Twitter clone, built as a solo weekend challenge at Makers Academy.|Sinatra, Ruby, Rspec, HTML, CSS.|
-|[Airport](https://github.com/barrygrubb/airport_challenge)|A command line  Airport control system, developed as a solo weekend challenge at Makers Academy.|Ruby, Rspec.|
+|[Airport](https://github.com/barrygrubb/airport_challenge)|A command line  airport control system, developed as a solo weekend challenge at Makers Academy.|Ruby, Rspec.|
 
 ## Education
 
