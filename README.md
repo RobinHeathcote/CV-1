@@ -1,7 +1,7 @@
 ## Barry Grubb | barrygrubb83@gmail.com
 [Github](http://www.github.com/barrygrubb) | [LinkedIn](http://uk.linkedin.com/in/barrygrubb) | [Twitter](http://www.twitter.com/_barrygrubb) | [Blog](http://barry-grubb.com/)
 
-A motivated junior software developer, I'm really interested in OOP, TDD/BDD, the SOLID principles, and keeping my code DRY. I've recently completed an intensive sixteen week software development bootcamp (four weeks part time and twelve weeks full time) at [Makers Academy](http://www.makersacademy.com/), during which I learned to code following best practices and agile methodologies.
+A motivated junior software developer, I'm really interested in OOP, TDD/BDD, the SOLID principles, and keeping my code DRY. I've recently completed an intensive sixteen week software development bootcamp (four weeks part time and twelve weeks full time) at [Makers Academy](http://www.makersacademy.com/employers/), during which I learned to code following best practices and agile methodologies.
 
 I'm currently looking for my first employment opportunity as a junior software developer, preferably in a position where I can provide immediate value whilst ensuring that personal growth remains a priority.
 
