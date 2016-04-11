@@ -1,7 +1,7 @@
 ## Barry Grubb | barrygrubb83@gmail.com
 [Github](http://www.github.com/barrygrubb) | [LinkedIn](http://uk.linkedin.com/in/barrygrubb) | [Twitter](http://www.twitter.com/_barrygrubb) | [Blog](http://barry-grubb.com/)
 
-I'm a graduate of [Makers Academy](http://www.makersacademy.com/employers/), Europe's leading software development bootcamp, where I learned to code following a whole host of best practices and Agile Methodologies. I love OOP/OOD, TDD/BDD, the SOLID principles, and keeping my code DRY.
+I'm a graduate of [Makers Academy](http://www.makersacademy.com/employers/), Europe's leading software development boot camp, where I learned to code following a whole host of best practices and Agile Methodologies. I love OOP/OOD, TDD/BDD, the SOLID principles, and keeping my code DRY.
 
 Right now I'm looking for my first employment opportunity since graduating, preferably somewhere that I'll be pushed to my limits to learn new skills in order to be the best that I can be.
 
