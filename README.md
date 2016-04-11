@@ -96,11 +96,11 @@ During my time working within the engineering industry I spent four and a half y
 **Framestore** (December 2008 to March 2009)    
 *Tape Traffic Librarian/Trainee Visual Effects Compositor*    
 
-**Ascent Media Group(Soho Film Lab)** (July 2008 to December 2008)    
+**Ascent Media Group (Soho Film Lab)** (July 2008 to December 2008)    
 *Tape Traffic Co-ordinator/Trainee Assistant Editor*    
 
-**Ascent Media Group(Todd-AO)** (October 2006 to July 2008)    
+**Ascent Media Group (Todd-AO)** (October 2006 to July 2008)    
 *Tape Traffic Co-ordinator/Trainee Assistant Editor*    
 
-**Ascent Media Group(Todd-AO)** (February 2006 to October 2006)    
+**Ascent Media Group (Todd-AO)** (February 2006 to October 2006)    
 *Runner*    
