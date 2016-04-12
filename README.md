@@ -18,7 +18,7 @@ For most of my life I've at least dabbled in programming, and have used it at an
 - Software Craftsmanship.
 - Extreme Programming.
 
-##### Projects
+##### Programming examples
 
 |Project|Description|Technologies Used|
 |---|---|---|
