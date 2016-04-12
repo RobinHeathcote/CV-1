@@ -64,8 +64,10 @@ During my time working within the engineering industry I spent four and a half y
 - OOP/OOD, TDD/BDD, SOLID, MVC, DDD.
 - Software Craftsmanship.
 - Extreme Programming.
-- Ruby, Rails, Javascript, Node.js, Angular.js.
-- Rspec, Jasmine, Karma, Protractor.
+- Various languages and frameworks including Ruby, Ruby on Rails, JavaScript, Node.js, Angular.js.
+- Various testing solutions including Rspec, Jasmine, Selenium, Karma, Protractor.
+- Dependency management using Ruby Gems, NPM, Bower.
+- Relational databases using PostgreSQL.
 
 #### Bromley Adult Education Centre (2009)
 - Web design with Adobe Dreamweaver.
